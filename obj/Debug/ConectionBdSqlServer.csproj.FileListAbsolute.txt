@@ -1,0 +1,7 @@
+C:\Users\Suzy\source\repos\ConectionBdSqlServer\ConectionBdSqlServer\obj\Debug\ConectionBdSqlServer.csprojAssemblyReference.cache
+C:\Users\Suzy\source\repos\ConectionBdSqlServer\ConectionBdSqlServer\obj\Debug\ConectionBdSqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Suzy\source\repos\ConectionBdSqlServer\ConectionBdSqlServer\bin\Debug\ConectionBdSqlServer.exe.config
+C:\Users\Suzy\source\repos\ConectionBdSqlServer\ConectionBdSqlServer\bin\Debug\ConectionBdSqlServer.exe
+C:\Users\Suzy\source\repos\ConectionBdSqlServer\ConectionBdSqlServer\bin\Debug\ConectionBdSqlServer.pdb
+C:\Users\Suzy\source\repos\ConectionBdSqlServer\ConectionBdSqlServer\obj\Debug\ConectionBdSqlServer.exe
+C:\Users\Suzy\source\repos\ConectionBdSqlServer\ConectionBdSqlServer\obj\Debug\ConectionBdSqlServer.pdb
